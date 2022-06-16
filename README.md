@@ -1,5 +1,6 @@
+# D-COLOR
 <p align="center">
-<a href="https://github.com/DilumBBandara/D-COLOR"><img title="ToolName" src="https://img.shields.io/badge/D-COLOR-blue?style=for-the-badge&logo="></a>
+<a href="https://github.com/DilumBBandara/D-COLOR"><img title="ToolName" src="https://img.shields.io/badge/D--COLOR-blue?style=for-the-badge&logo="></a>
 </p>
 <p align="center">
 <a href="https://github.com/DilumBBandara/D-COLOR"><img title="Version" src="https://img.shields.io/badge/Version-1.1-green?style=for-the-badge&logo="></a>
