@@ -9,21 +9,21 @@
 
 ## AVAILABLE ON :
   
-   * <code>Termux</code>
+   * `Termux`
 
 ## TESTED ON :
    
-   * <code>Termux</code>
+   * `Termux`
 
 ## REQUIREMENTS :
 
-   * <code>storage 500MB</code>
-   * <code>python</code>
-   * <code>git</code>
-   * <code>ruby</code>
-   * <code>figlet</code>
-   * <code>lolcat</code>
-   * <code>internet</code>
+   * `storage 500MB`
+   * `python`
+   * `git`
+   * `ruby`
+   * `figlet`
+   * `lolcat`
+   * `internet`
 
 ## INSTALLATION TERMUX :
 
